@@ -10,6 +10,7 @@ import org.openqa.selenium.support.PageFactory;
 public class WebPage {
 	
 	WebDriver ldriver;
+	int testcase = 1;
 	
 	public WebPage(WebDriver rdriver)
 	{
