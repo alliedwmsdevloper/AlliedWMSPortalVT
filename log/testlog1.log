@@ -1,0 +1,322 @@
+2021-02-27 03:39:35,255 [main] INFO ebanking - URL is opened
+2021-02-27 03:41:15,261 [main] INFO ebanking - URL is opened
+2021-02-27 03:41:15,428 [main] INFO ebanking - Entered username
+2021-02-27 03:41:15,528 [main] INFO ebanking - Entered password
+2021-02-27 03:41:15,624 [main] INFO ebanking - Entered username
+2021-02-27 03:41:15,714 [main] INFO ebanking - Entered password
+2021-02-27 03:44:28,211 [main] INFO ebanking - URL is opened
+2021-02-27 03:44:28,420 [main] INFO ebanking - Entered username
+2021-02-27 03:44:28,531 [main] INFO ebanking - Entered password
+2021-02-27 03:44:28,649 [main] INFO ebanking - Entered username
+2021-02-27 03:44:28,740 [main] INFO ebanking - Entered password
+2021-02-27 03:48:41,388 [main] INFO ebanking - URL is opened
+2021-02-27 03:48:41,563 [main] INFO ebanking - Entered username
+2021-02-27 03:48:41,678 [main] INFO ebanking - Entered password
+2021-02-27 03:48:41,783 [main] INFO ebanking - Entered username
+2021-02-27 03:48:41,879 [main] INFO ebanking - Entered password
+2021-02-27 03:50:25,536 [main] INFO ebanking - BEGINNING TEST CASE ONE
+2021-02-27 03:50:25,550 [main] INFO ebanking - ***********************
+2021-02-27 03:50:25,551 [main] INFO ebanking - URL is opened
+2021-02-27 03:50:25,656 [main] INFO ebanking - Entered username
+2021-02-27 03:50:25,743 [main] INFO ebanking - Entered password
+2021-02-27 03:50:25,849 [main] INFO ebanking - Entered account number
+2021-02-27 03:50:25,922 [main] INFO ebanking - Entered password
+2021-02-27 03:51:24,564 [main] INFO ebanking - BEGINNING TEST CASE ONE
+2021-02-27 03:51:24,575 [main] INFO ebanking - ***********************
+2021-02-27 03:51:24,576 [main] INFO ebanking - URL is opened
+2021-02-27 03:51:24,717 [main] INFO ebanking - Entered username
+2021-02-27 03:51:24,790 [main] INFO ebanking - Entered password
+2021-02-27 03:51:24,888 [main] INFO ebanking - Entered account number
+2021-02-27 03:51:25,031 [main] INFO ebanking - Entered password
+2021-02-27 03:51:25,265 [main] INFO ebanking - Login test has failed
+2021-02-27 03:59:22,918 [main] INFO ebanking - BEGINNING TEST CASE ONE
+2021-02-27 03:59:22,926 [main] INFO ebanking - ***********************
+2021-02-27 03:59:22,927 [main] INFO ebanking - URL is opened
+2021-02-27 03:59:23,082 [main] INFO ebanking - Entered username
+2021-02-27 03:59:23,366 [main] INFO ebanking - Entered password
+2021-02-27 03:59:23,490 [main] INFO ebanking - Entered account number
+2021-02-27 03:59:23,577 [main] INFO ebanking - Entered password
+2021-02-27 03:59:23,809 [main] INFO ebanking - Login test has failed
+2021-02-27 18:47:27,288 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE - Uptime TC
+2021-02-27 18:47:27,308 [main] INFO ATM Portal App - ***********************
+2021-02-27 18:47:27,335 [main] INFO ATM Portal App - Applicaton URL is opened : Server is Up
+2021-02-27 18:47:27,336 [main] INFO ATM Portal App - Uptime test has passed
+2021-02-27 18:47:30,253 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-02-27 18:47:30,256 [main] INFO ATM Portal App - ***********************
+2021-02-27 18:47:30,256 [main] INFO ATM Portal App - Application URL is opened
+2021-02-27 18:47:30,588 [main] INFO ATM Portal App - Entered corrupt username
+2021-02-27 18:47:30,684 [main] INFO ATM Portal App - Entered corrupt password
+2021-02-27 18:47:30,765 [main] INFO ATM Portal App - Entered corrupt accountno
+2021-02-27 18:47:30,846 [main] INFO ATM Portal App - Entered corrupt zipcode
+2021-02-27 18:47:32,327 [main] INFO ATM Portal App - Backend Security is Valid
+2021-02-27 18:47:34,691 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-02-27 18:47:34,694 [main] INFO ATM Portal App - ***********************
+2021-02-27 18:47:34,695 [main] INFO ATM Portal App - ATM Portal is opened
+2021-02-27 18:47:34,793 [main] INFO ATM Portal App - Entered correct username
+2021-02-27 18:47:34,987 [main] INFO ATM Portal App - Entered corrent password
+2021-02-27 18:47:35,059 [main] INFO ATM Portal App - Entered corret accountno
+2021-02-27 18:47:35,229 [main] INFO ATM Portal App - Entered correct zipcode
+2021-02-27 18:47:35,475 [main] INFO ATM Portal App - Test has Failed
+2021-03-09 16:01:54,254 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE
+2021-03-09 16:01:54,276 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:01:54,279 [main] INFO ATM Portal App - Checking application uptime !
+2021-03-09 16:01:54,300 [main] INFO ATM Portal App - Application URL is not detected : Server is Down
+2021-03-09 16:01:54,300 [main] INFO ATM Portal App - Uptime test has failed
+2021-03-09 16:01:58,538 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-03-09 16:01:58,545 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:01:58,546 [main] INFO ATM Portal App - Application URL is opened
+2021-03-09 16:01:58,845 [main] INFO ATM Portal App - Entered corrupt username
+2021-03-09 16:01:58,948 [main] INFO ATM Portal App - Entered corrupt password
+2021-03-09 16:01:59,096 [main] INFO ATM Portal App - Entered corrupt accountno
+2021-03-09 16:01:59,226 [main] INFO ATM Portal App - Entered corrupt zipcode
+2021-03-09 16:01:59,551 [main] INFO ATM Portal App - Test has failed
+2021-03-09 16:01:59,551 [main] INFO ATM Portal App - Backend Security is Invalid 
+2021-03-09 16:02:01,747 [main] INFO ATM Portal App - BEGINNING TEST CASE Three
+2021-03-09 16:02:01,762 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:02:01,765 [main] INFO ATM Portal App - ATM Portal is opened
+2021-03-09 16:02:01,970 [main] INFO ATM Portal App - Entered correct username
+2021-03-09 16:02:02,072 [main] INFO ATM Portal App - Entered corrent password
+2021-03-09 16:02:02,144 [main] INFO ATM Portal App - Entered corret accountno
+2021-03-09 16:02:02,243 [main] INFO ATM Portal App - Entered correct zipcode
+2021-03-09 16:02:02,449 [main] INFO ATM Portal App - Test has Failed
+2021-03-09 16:07:02,247 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE
+2021-03-09 16:07:02,285 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:07:02,286 [main] INFO ATM Portal App - Checking application uptime !
+2021-03-09 16:07:02,307 [main] INFO ATM Portal App - Application URL is not detected : Server is Down
+2021-03-09 16:07:02,308 [main] INFO ATM Portal App - Uptime test has failed
+2021-03-09 16:07:04,430 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-03-09 16:07:04,432 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:07:04,433 [main] INFO ATM Portal App - Application URL is opened
+2021-03-09 16:07:04,759 [main] INFO ATM Portal App - Entered corrupt username
+2021-03-09 16:07:04,838 [main] INFO ATM Portal App - Entered corrupt password
+2021-03-09 16:07:04,954 [main] INFO ATM Portal App - Entered corrupt accountno
+2021-03-09 16:07:05,070 [main] INFO ATM Portal App - Entered corrupt zipcode
+2021-03-09 16:07:05,303 [main] INFO ATM Portal App - Test has failed
+2021-03-09 16:07:05,304 [main] INFO ATM Portal App - Backend Security is Invalid 
+2021-03-09 16:07:07,512 [main] INFO ATM Portal App - BEGINNING TEST CASE Three
+2021-03-09 16:07:07,513 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:07:07,516 [main] INFO ATM Portal App - ATM Portal is opened
+2021-03-09 16:07:07,657 [main] INFO ATM Portal App - Entered correct username
+2021-03-09 16:07:07,771 [main] INFO ATM Portal App - Entered corrent password
+2021-03-09 16:07:07,871 [main] INFO ATM Portal App - Entered corret accountno
+2021-03-09 16:07:08,025 [main] INFO ATM Portal App - Entered correct zipcode
+2021-03-09 16:07:08,270 [main] INFO ATM Portal App - Test has Failed
+2021-03-09 16:14:33,339 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE
+2021-03-09 16:14:33,351 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:14:33,352 [main] INFO ATM Portal App - Checking application uptime !
+2021-03-09 16:14:33,369 [main] INFO ATM Portal App - Application URL is not detected : Server is Down
+2021-03-09 16:14:33,370 [main] INFO ATM Portal App - Uptime test has failed
+2021-03-09 16:14:36,131 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-03-09 16:14:36,140 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:14:36,142 [main] INFO ATM Portal App - Application URL is opened
+2021-03-09 16:14:48,581 [main] INFO ATM Portal App - BEGINNING TEST CASE Three
+2021-03-09 16:14:48,584 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:14:48,586 [main] INFO ATM Portal App - ATM Portal is opened
+2021-03-09 16:17:01,787 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE
+2021-03-09 16:17:01,801 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:17:01,802 [main] INFO ATM Portal App - Checking application uptime !
+2021-03-09 16:17:01,814 [main] INFO ATM Portal App - Applicaton URL is opened : Server is Up
+2021-03-09 16:17:01,814 [main] INFO ATM Portal App - Test has passed
+2021-03-09 16:17:03,849 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-03-09 16:17:03,855 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:17:03,855 [main] INFO ATM Portal App - Application URL is opened
+2021-03-09 16:17:04,245 [main] INFO ATM Portal App - Entered corrupt username
+2021-03-09 16:17:04,318 [main] INFO ATM Portal App - Entered corrupt password
+2021-03-09 16:17:04,460 [main] INFO ATM Portal App - Entered corrupt accountno
+2021-03-09 16:17:04,556 [main] INFO ATM Portal App - Entered corrupt zipcode
+2021-03-09 16:17:05,517 [main] INFO ATM Portal App - Test has failed
+2021-03-09 16:17:05,517 [main] INFO ATM Portal App - Backend Security is Invalid 
+2021-03-09 16:17:06,794 [main] INFO ATM Portal App - BEGINNING TEST CASE Three
+2021-03-09 16:17:06,795 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:17:06,804 [main] INFO ATM Portal App - ATM Portal is opened
+2021-03-09 16:17:06,962 [main] INFO ATM Portal App - Entered correct username
+2021-03-09 16:17:07,078 [main] INFO ATM Portal App - Entered corrent password
+2021-03-09 16:17:07,174 [main] INFO ATM Portal App - Entered corret accountno
+2021-03-09 16:17:07,261 [main] INFO ATM Portal App - Entered correct zipcode
+2021-03-09 16:17:07,662 [main] INFO ATM Portal App - Test has Failed
+2021-03-09 16:19:04,768 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE
+2021-03-09 16:19:04,780 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:19:04,782 [main] INFO ATM Portal App - Checking application uptime !
+2021-03-09 16:19:04,797 [main] INFO ATM Portal App - Applicaton URL is opened : Server is Up
+2021-03-09 16:19:04,798 [main] INFO ATM Portal App - Test has passed
+2021-03-09 16:19:06,203 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-03-09 16:19:06,211 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:19:06,212 [main] INFO ATM Portal App - Application URL is opened
+2021-03-09 16:19:06,477 [main] INFO ATM Portal App - Entered corrupt username
+2021-03-09 16:19:06,561 [main] INFO ATM Portal App - Entered corrupt password
+2021-03-09 16:19:06,694 [main] INFO ATM Portal App - Entered corrupt accountno
+2021-03-09 16:19:06,774 [main] INFO ATM Portal App - Entered corrupt zipcode
+2021-03-09 16:19:06,951 [main] INFO ATM Portal App - Test has failed
+2021-03-09 16:19:06,952 [main] INFO ATM Portal App - Backend Security is Invalid 
+2021-03-09 16:19:08,245 [main] INFO ATM Portal App - BEGINNING TEST CASE Three
+2021-03-09 16:19:08,246 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:19:08,248 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 16:19:08,365 [main] INFO ATM Portal App - Entered correct username
+2021-03-09 16:19:08,508 [main] INFO ATM Portal App - Entered corrent password
+2021-03-09 16:19:08,636 [main] INFO ATM Portal App - Entered corret accountno
+2021-03-09 16:19:08,718 [main] INFO ATM Portal App - Entered correct zipcode
+2021-03-09 16:19:08,969 [main] INFO ATM Portal App - Confirmed Validation
+2021-03-09 16:51:39,142 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE
+2021-03-09 16:51:39,156 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:51:39,157 [main] INFO ATM Portal App - Checking application uptime !
+2021-03-09 16:51:39,169 [main] INFO ATM Portal App - Applicaton URL is opened : Server is Up
+2021-03-09 16:51:39,169 [main] INFO ATM Portal App - Test has passed
+2021-03-09 16:51:41,636 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-03-09 16:51:41,639 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:51:41,640 [main] INFO ATM Portal App - Application URL is opened
+2021-03-09 16:51:41,819 [main] INFO ATM Portal App - Entered corrupt username
+2021-03-09 16:51:41,892 [main] INFO ATM Portal App - Entered corrupt password
+2021-03-09 16:51:41,983 [main] INFO ATM Portal App - Entered corrupt accountno
+2021-03-09 16:51:42,063 [main] INFO ATM Portal App - Entered corrupt zipcode
+2021-03-09 16:51:53,653 [main] INFO ATM Portal App - BEGINNING TEST CASE Three
+2021-03-09 16:51:53,655 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:51:53,656 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 16:51:53,790 [main] INFO ATM Portal App - Entered correct username
+2021-03-09 16:51:53,991 [main] INFO ATM Portal App - Entered corrent password
+2021-03-09 16:51:54,145 [main] INFO ATM Portal App - Entered corret accountno
+2021-03-09 16:51:54,353 [main] INFO ATM Portal App - Entered correct zipcode
+2021-03-09 16:52:05,854 [main] INFO ATM Portal App - BEGINNING TEST CASE Four
+2021-03-09 16:52:05,855 [main] INFO ATM Portal App - ***********************
+2021-03-09 16:52:05,855 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 17:03:19,290 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE
+2021-03-09 17:03:19,311 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:03:19,311 [main] INFO ATM Portal App - Checking application uptime !
+2021-03-09 17:03:19,321 [main] INFO ATM Portal App - Applicaton URL is opened : Server is Up
+2021-03-09 17:03:19,322 [main] INFO ATM Portal App - Test has passed
+2021-03-09 17:03:21,400 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-03-09 17:03:21,405 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:03:21,406 [main] INFO ATM Portal App - Application URL is opened
+2021-03-09 17:03:21,705 [main] INFO ATM Portal App - Entered corrupt username
+2021-03-09 17:03:21,783 [main] INFO ATM Portal App - Entered corrupt password
+2021-03-09 17:03:21,900 [main] INFO ATM Portal App - Entered corrupt accountno
+2021-03-09 17:03:22,050 [main] INFO ATM Portal App - Entered corrupt zipcode
+2021-03-09 17:03:33,914 [main] INFO ATM Portal App - BEGINNING TEST CASE Three
+2021-03-09 17:03:33,915 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:03:33,916 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 17:03:34,035 [main] INFO ATM Portal App - Entered correct username
+2021-03-09 17:03:34,130 [main] INFO ATM Portal App - Entered corrent password
+2021-03-09 17:03:34,206 [main] INFO ATM Portal App - Entered corret accountno
+2021-03-09 17:03:34,294 [main] INFO ATM Portal App - Entered correct zipcode
+2021-03-09 17:03:45,839 [main] INFO ATM Portal App - BEGINNING TEST CASE Four
+2021-03-09 17:03:45,839 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:03:45,839 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 17:12:23,664 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE
+2021-03-09 17:12:23,686 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:12:23,687 [main] INFO ATM Portal App - Checking application uptime !
+2021-03-09 17:12:23,712 [main] INFO ATM Portal App - Applicaton URL is opened : Server is Up
+2021-03-09 17:12:23,713 [main] INFO ATM Portal App - Test has passed
+2021-03-09 17:12:25,430 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-03-09 17:12:25,431 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:12:25,431 [main] INFO ATM Portal App - Application URL is opened
+2021-03-09 17:12:25,705 [main] INFO ATM Portal App - Entered corrupt username
+2021-03-09 17:12:25,904 [main] INFO ATM Portal App - Entered corrupt password
+2021-03-09 17:12:26,029 [main] INFO ATM Portal App - Entered corrupt accountno
+2021-03-09 17:12:26,166 [main] INFO ATM Portal App - Entered corrupt zipcode
+2021-03-09 17:12:37,735 [main] INFO ATM Portal App - BEGINNING TEST CASE Three
+2021-03-09 17:12:37,742 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:12:37,746 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 17:12:37,898 [main] INFO ATM Portal App - Entered correct username
+2021-03-09 17:12:37,984 [main] INFO ATM Portal App - Entered corrent password
+2021-03-09 17:12:38,078 [main] INFO ATM Portal App - Entered corret accountno
+2021-03-09 17:12:38,143 [main] INFO ATM Portal App - Entered correct zipcode
+2021-03-09 17:12:49,454 [main] INFO ATM Portal App - BEGINNING TEST CASE Four
+2021-03-09 17:12:49,456 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:12:49,457 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 17:16:25,295 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE
+2021-03-09 17:16:25,301 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:16:25,303 [main] INFO ATM Portal App - Checking application uptime !
+2021-03-09 17:16:25,325 [main] INFO ATM Portal App - Applicaton URL is opened : Server is Up
+2021-03-09 17:16:25,326 [main] INFO ATM Portal App - Test has passed
+2021-03-09 17:16:27,323 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-03-09 17:16:27,326 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:16:27,326 [main] INFO ATM Portal App - Application URL is opened
+2021-03-09 17:16:27,607 [main] INFO ATM Portal App - Entered corrupt username
+2021-03-09 17:16:27,699 [main] INFO ATM Portal App - Entered corrupt password
+2021-03-09 17:16:27,827 [main] INFO ATM Portal App - Entered corrupt accountno
+2021-03-09 17:16:27,889 [main] INFO ATM Portal App - Entered corrupt zipcode
+2021-03-09 17:16:28,402 [main] INFO ATM Portal App - Test has failed
+2021-03-09 17:16:28,403 [main] INFO ATM Portal App - Backend Security is Invalid 
+2021-03-09 17:16:29,826 [main] INFO ATM Portal App - BEGINNING TEST CASE Three
+2021-03-09 17:16:29,826 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:16:29,837 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 17:16:29,958 [main] INFO ATM Portal App - Entered correct username
+2021-03-09 17:16:30,089 [main] INFO ATM Portal App - Entered corrent password
+2021-03-09 17:16:30,179 [main] INFO ATM Portal App - Entered corret accountno
+2021-03-09 17:16:30,252 [main] INFO ATM Portal App - Entered correct zipcode
+2021-03-09 17:16:30,776 [main] INFO ATM Portal App - Confirmed Validation
+2021-03-09 17:16:32,429 [main] INFO ATM Portal App - BEGINNING TEST CASE Four
+2021-03-09 17:16:32,430 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:16:32,430 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 17:16:32,933 [main] INFO ATM Portal App - WMS Portal login is Successful
+2021-03-09 17:16:32,933 [main] INFO ATM Portal App - testing logout functionality
+2021-03-09 17:16:33,181 [main] INFO ATM Portal App - Logout Test Successful
+2021-03-09 17:17:27,272 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE
+2021-03-09 17:17:27,277 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:17:27,277 [main] INFO ATM Portal App - Checking application uptime !
+2021-03-09 17:17:27,288 [main] INFO ATM Portal App - Applicaton URL is opened : Server is Up
+2021-03-09 17:17:27,289 [main] INFO ATM Portal App - Test has passed
+2021-03-09 17:17:28,877 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-03-09 17:17:28,880 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:17:28,880 [main] INFO ATM Portal App - Application URL is opened
+2021-03-09 17:17:29,080 [main] INFO ATM Portal App - Entered corrupt username
+2021-03-09 17:17:29,159 [main] INFO ATM Portal App - Entered corrupt password
+2021-03-09 17:17:29,231 [main] INFO ATM Portal App - Entered corrupt accountno
+2021-03-09 17:17:29,311 [main] INFO ATM Portal App - Entered corrupt zipcode
+2021-03-09 17:17:29,517 [main] INFO ATM Portal App - Test has failed
+2021-03-09 17:17:29,517 [main] INFO ATM Portal App - Backend Security is Invalid 
+2021-03-09 17:17:30,886 [main] INFO ATM Portal App - BEGINNING TEST CASE Three
+2021-03-09 17:17:30,896 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:17:30,901 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 17:17:31,013 [main] INFO ATM Portal App - Entered correct username
+2021-03-09 17:17:31,095 [main] INFO ATM Portal App - Entered corrent password
+2021-03-09 17:17:31,214 [main] INFO ATM Portal App - Entered corret accountno
+2021-03-09 17:17:31,294 [main] INFO ATM Portal App - Entered correct zipcode
+2021-03-09 17:17:31,527 [main] INFO ATM Portal App - Confirmed Validation
+2021-03-09 17:17:32,687 [main] INFO ATM Portal App - BEGINNING TEST CASE Four
+2021-03-09 17:17:32,687 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:17:32,688 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 17:17:33,204 [main] INFO ATM Portal App - WMS Portal login is Successful
+2021-03-09 17:17:33,206 [main] INFO ATM Portal App - testing logout functionality
+2021-03-09 17:17:33,429 [main] INFO ATM Portal App - Logout Test Successful
+2021-03-09 17:18:02,558 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE
+2021-03-09 17:18:02,567 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:18:02,568 [main] INFO ATM Portal App - Checking application uptime !
+2021-03-09 17:18:02,577 [main] INFO ATM Portal App - Applicaton URL is opened : Server is Up
+2021-03-09 17:18:02,577 [main] INFO ATM Portal App - Test has passed
+2021-03-09 17:18:03,916 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-03-09 17:18:03,916 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:18:03,916 [main] INFO ATM Portal App - Application URL is opened
+2021-03-09 17:18:04,138 [main] INFO ATM Portal App - Entered corrupt username
+2021-03-09 17:18:04,395 [main] INFO ATM Portal App - Entered corrupt password
+2021-03-09 17:18:04,473 [main] INFO ATM Portal App - Entered corrupt accountno
+2021-03-09 17:18:04,556 [main] INFO ATM Portal App - Entered corrupt zipcode
+2021-03-09 17:18:04,708 [main] INFO ATM Portal App - Test has failed
+2021-03-09 17:18:04,709 [main] INFO ATM Portal App - Backend Security is Invalid 
+2021-03-09 17:18:06,184 [main] INFO ATM Portal App - BEGINNING TEST CASE Three
+2021-03-09 17:18:06,189 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:18:06,190 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 17:18:06,288 [main] INFO ATM Portal App - Entered correct username
+2021-03-09 17:18:06,380 [main] INFO ATM Portal App - Entered corrent password
+2021-03-09 17:18:06,482 [main] INFO ATM Portal App - Entered corret accountno
+2021-03-09 17:18:06,550 [main] INFO ATM Portal App - Entered correct zipcode
+2021-03-09 17:18:06,767 [main] INFO ATM Portal App - Confirmed Validation
+2021-03-09 17:18:07,922 [main] INFO ATM Portal App - BEGINNING TEST CASE Four
+2021-03-09 17:18:07,930 [main] INFO ATM Portal App - ***********************
+2021-03-09 17:18:07,930 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-09 17:18:08,461 [main] INFO ATM Portal App - WMS Portal login is Successful
+2021-03-09 17:18:08,461 [main] INFO ATM Portal App - testing logout functionality
+2021-03-09 17:18:08,701 [main] INFO ATM Portal App - Log out Test Failed
+2021-03-10 00:28:44,155 [main] INFO ATM Portal App - BEGINNING TEST CASE ONE
+2021-03-10 00:28:44,172 [main] INFO ATM Portal App - ***********************
+2021-03-10 00:28:44,172 [main] INFO ATM Portal App - Checking application uptime !
+2021-03-10 00:28:44,187 [main] INFO ATM Portal App - Application URL is not detected : Server is Down
+2021-03-10 00:28:44,188 [main] INFO ATM Portal App - Uptime test has failed
+2021-03-10 00:28:47,666 [main] INFO ATM Portal App - BEGINNING TEST CASE TWO
+2021-03-10 00:28:47,688 [main] INFO ATM Portal App - ***********************
+2021-03-10 00:28:47,688 [main] INFO ATM Portal App - Application URL is opened
+2021-03-10 00:28:52,804 [main] INFO ATM Portal App - BEGINNING TEST CASE Three
+2021-03-10 00:28:52,811 [main] INFO ATM Portal App - ***********************
+2021-03-10 00:28:52,812 [main] INFO ATM Portal App - WMS Portal is opened
+2021-03-10 00:28:57,904 [main] INFO ATM Portal App - BEGINNING TEST CASE Four
+2021-03-10 00:28:57,912 [main] INFO ATM Portal App - ***********************
+2021-03-10 00:28:57,914 [main] INFO ATM Portal App - WMS Portal is opened

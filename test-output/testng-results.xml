@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="1" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-10T00:28:36 EST" name="ATMPortalvt" finished-at="2021-03-10T00:28:59 EST" duration-ms="22836">
+    <groups>
+    </groups>
+    <test started-at="2021-03-10T00:28:36 EST" name="ATM Portal Test" finished-at="2021-03-10T00:28:59 EST" duration-ms="22836">
+      <class name="com.wmsportalvt.testCases.TC2_ValidateSecurity">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.wmsportalvt.testCases.TC2_ValidateSecurity@23f7d05d]" started-at="2021-03-10T00:28:44 EST" name="setup" finished-at="2021-03-10T00:28:47 EST" duration-ms="3316" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="securityTest()[pri:0, instance:com.wmsportalvt.testCases.TC2_ValidateSecurity@23f7d05d]" started-at="2021-03-10T00:28:47 EST" name="securityTest" finished-at="2021-03-10T00:28:50 EST" duration-ms="2594" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at java.base/java.lang.reflect.Method.invoke(Method.java:559)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at com.sun.proxy.$Proxy15.sendKeys(Unknown Source)
+at com.wmsportalvt.pageElements.WebPage.setUserName(WebPage.java:50)
+at com.wmsportalvt.testCases.TC2_ValidateSecurity.securityTest(TC2_ValidateSecurity.java:35)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- securityTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.wmsportalvt.testCases.TC2_ValidateSecurity@23f7d05d]" started-at="2021-03-10T00:28:50 EST" name="tearDown" finished-at="2021-03-10T00:28:50 EST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wmsportalvt.testCases.TC2_ValidateSecurity -->
+      <class name="com.wmsportalvt.testCases.TC1_ValidateUptime">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.wmsportalvt.testCases.TC1_ValidateUptime@23986957]" started-at="2021-03-10T00:28:36 EST" name="setup" finished-at="2021-03-10T00:28:44 EST" duration-ms="7487" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="upTime()[pri:0, instance:com.wmsportalvt.testCases.TC1_ValidateUptime@23986957]" started-at="2021-03-10T00:28:44 EST" name="upTime" finished-at="2021-03-10T00:28:44 EST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upTime -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.wmsportalvt.testCases.TC1_ValidateUptime@23986957]" started-at="2021-03-10T00:28:44 EST" name="tearDown" finished-at="2021-03-10T00:28:44 EST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wmsportalvt.testCases.TC1_ValidateUptime -->
+      <class name="com.wmsportalvt.testCases.TC4_ValidateLogout">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.wmsportalvt.testCases.TC4_ValidateLogout@7d3a22a9]" started-at="2021-03-10T00:28:56 EST" name="setup" finished-at="2021-03-10T00:28:57 EST" duration-ms="1556" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logoutTest()[pri:0, instance:com.wmsportalvt.testCases.TC4_ValidateLogout@7d3a22a9]" started-at="2021-03-10T00:28:57 EST" name="logoutTest" finished-at="2021-03-10T00:28:59 EST" duration-ms="1345" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at java.base/java.lang.reflect.Method.invoke(Method.java:559)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at com.sun.proxy.$Proxy15.sendKeys(Unknown Source)
+at com.wmsportalvt.pageElements.WebPage.setUserName(WebPage.java:50)
+at com.wmsportalvt.testCases.TC4_ValidateLogout.logoutTest(TC4_ValidateLogout.java:41)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.wmsportalvt.testCases.TC4_ValidateLogout@7d3a22a9]" started-at="2021-03-10T00:28:59 EST" name="tearDown" finished-at="2021-03-10T00:28:59 EST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wmsportalvt.testCases.TC4_ValidateLogout -->
+      <class name="com.wmsportalvt.testCases.TC3_ValidateLogin">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.wmsportalvt.testCases.TC3_ValidateLogin@1e730495]" started-at="2021-03-10T00:28:50 EST" name="setup" finished-at="2021-03-10T00:28:52 EST" duration-ms="2415" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.wmsportalvt.testCases.TC3_ValidateLogin@1e730495]" started-at="2021-03-10T00:28:52 EST" name="loginTest" finished-at="2021-03-10T00:28:56 EST" duration-ms="3374" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at java.base/java.lang.reflect.Method.invoke(Method.java:559)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at com.sun.proxy.$Proxy15.sendKeys(Unknown Source)
+at com.wmsportalvt.pageElements.WebPage.setUserName(WebPage.java:50)
+at com.wmsportalvt.testCases.TC3_ValidateLogin.loginTest(TC3_ValidateLogin.java:35)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.wmsportalvt.testCases.TC3_ValidateLogin@1e730495]" started-at="2021-03-10T00:28:56 EST" name="tearDown" finished-at="2021-03-10T00:28:56 EST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wmsportalvt.testCases.TC3_ValidateLogin -->
+    </test> <!-- ATM Portal Test -->
+  </suite> <!-- ATMPortalvt -->
+</testng-results>
