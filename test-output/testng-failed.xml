@@ -4,20 +4,6 @@
   <test thread-count="5" name="ATM Portal Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.wmsportalvt.testCases.TC3_ValidateLogin">
-        <methods>
-          <include name="loginTest"/>
-          <include name="setup"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.wmsportalvt.testCases.TC3_ValidateLogin -->
-      <class name="com.wmsportalvt.testCases.TC4_ValidateLogout">
-        <methods>
-          <include name="setup"/>
-          <include name="tearDown"/>
-          <include name="logoutTest"/>
-        </methods>
-      </class> <!-- com.wmsportalvt.testCases.TC4_ValidateLogout -->
       <class name="com.wmsportalvt.testCases.TC2_ValidateSecurity">
         <methods>
           <include name="setup"/>

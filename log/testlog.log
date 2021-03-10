@@ -320,3 +320,235 @@
 2021-03-10 00:28:57,904 - ATM Portal App -INFO - BEGINNING TEST CASE Four
 2021-03-10 00:28:57,912 - ATM Portal App -INFO - ***********************
 2021-03-10 00:28:57,914 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:30:08,217 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 03:30:08,237 - ATM Portal App -INFO - ***********************
+2021-03-10 03:30:08,237 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 03:30:08,252 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 03:30:08,252 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 03:30:15,303 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 03:30:15,329 - ATM Portal App -INFO - ***********************
+2021-03-10 03:30:15,332 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 03:30:31,897 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 03:30:31,920 - ATM Portal App -INFO - ***********************
+2021-03-10 03:30:31,921 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:30:47,545 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 03:30:47,549 - ATM Portal App -INFO - ***********************
+2021-03-10 03:30:47,549 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:41:01,681 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 03:41:01,695 - ATM Portal App -INFO - ***********************
+2021-03-10 03:41:01,696 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 03:41:01,714 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 03:41:01,716 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 03:41:07,987 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 03:41:07,996 - ATM Portal App -INFO - ***********************
+2021-03-10 03:41:07,997 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 03:41:23,647 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 03:41:23,658 - ATM Portal App -INFO - ***********************
+2021-03-10 03:41:23,660 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:41:40,618 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 03:41:40,634 - ATM Portal App -INFO - ***********************
+2021-03-10 03:41:40,635 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:43:58,791 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 03:43:58,826 - ATM Portal App -INFO - ***********************
+2021-03-10 03:43:58,828 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 03:43:59,260 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 03:43:59,271 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 03:44:24,260 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 03:44:24,286 - ATM Portal App -INFO - ***********************
+2021-03-10 03:44:24,294 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 03:49:09,874 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 03:49:09,888 - ATM Portal App -INFO - ***********************
+2021-03-10 03:49:09,889 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 03:49:09,899 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 03:49:09,900 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 03:49:12,999 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 03:49:13,000 - ATM Portal App -INFO - ***********************
+2021-03-10 03:49:13,000 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 03:49:25,105 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 03:49:25,112 - ATM Portal App -INFO - ***********************
+2021-03-10 03:49:25,113 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:49:36,618 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 03:49:36,618 - ATM Portal App -INFO - ***********************
+2021-03-10 03:49:36,619 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:52:06,779 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 03:52:06,794 - ATM Portal App -INFO - ***********************
+2021-03-10 03:52:06,796 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 03:52:06,805 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 03:52:06,806 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 03:52:08,622 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 03:52:08,624 - ATM Portal App -INFO - ***********************
+2021-03-10 03:52:08,626 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 03:52:20,293 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 03:52:20,293 - ATM Portal App -INFO - ***********************
+2021-03-10 03:52:20,293 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:52:31,930 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 03:52:31,930 - ATM Portal App -INFO - ***********************
+2021-03-10 03:52:31,930 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:53:11,064 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 03:53:11,080 - ATM Portal App -INFO - ***********************
+2021-03-10 03:53:11,081 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 03:53:11,088 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 03:53:11,089 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 03:53:12,845 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 03:53:12,847 - ATM Portal App -INFO - ***********************
+2021-03-10 03:53:12,847 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 03:53:24,437 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 03:53:24,437 - ATM Portal App -INFO - ***********************
+2021-03-10 03:53:24,437 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:53:36,101 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 03:53:36,103 - ATM Portal App -INFO - ***********************
+2021-03-10 03:53:36,104 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:54:50,149 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 03:54:50,166 - ATM Portal App -INFO - ***********************
+2021-03-10 03:54:50,167 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 03:54:50,176 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 03:54:50,176 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 03:54:51,597 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 03:54:51,597 - ATM Portal App -INFO - ***********************
+2021-03-10 03:54:51,597 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 03:55:03,049 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 03:55:03,053 - ATM Portal App -INFO - ***********************
+2021-03-10 03:55:03,053 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:55:14,430 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 03:55:14,431 - ATM Portal App -INFO - ***********************
+2021-03-10 03:55:14,431 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:56:30,413 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 03:56:30,418 - ATM Portal App -INFO - ***********************
+2021-03-10 03:56:30,419 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 03:56:30,427 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 03:56:30,428 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 03:56:31,955 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 03:56:31,956 - ATM Portal App -INFO - ***********************
+2021-03-10 03:56:31,956 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 03:56:43,922 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 03:56:43,929 - ATM Portal App -INFO - ***********************
+2021-03-10 03:56:43,929 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:56:55,947 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 03:56:55,948 - ATM Portal App -INFO - ***********************
+2021-03-10 03:56:55,949 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:58:40,354 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 03:58:40,364 - ATM Portal App -INFO - ***********************
+2021-03-10 03:58:40,364 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 03:58:40,380 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 03:58:40,380 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 03:58:42,329 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 03:58:42,330 - ATM Portal App -INFO - ***********************
+2021-03-10 03:58:42,331 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 03:58:54,258 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 03:58:54,259 - ATM Portal App -INFO - ***********************
+2021-03-10 03:58:54,260 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 03:58:58,891 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 03:58:58,892 - ATM Portal App -INFO - ***********************
+2021-03-10 03:58:58,892 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:00:35,701 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 04:00:35,743 - ATM Portal App -INFO - ***********************
+2021-03-10 04:00:35,743 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 04:00:35,764 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 04:00:35,765 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 04:00:37,761 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 04:00:37,769 - ATM Portal App -INFO - ***********************
+2021-03-10 04:00:37,770 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 04:00:49,504 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 04:00:49,505 - ATM Portal App -INFO - ***********************
+2021-03-10 04:00:49,505 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:01:00,753 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 04:01:00,754 - ATM Portal App -INFO - ***********************
+2021-03-10 04:01:00,754 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:03:51,541 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 04:03:51,548 - ATM Portal App -INFO - ***********************
+2021-03-10 04:03:51,548 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 04:03:51,569 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 04:03:51,570 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 04:03:53,134 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 04:03:53,134 - ATM Portal App -INFO - ***********************
+2021-03-10 04:03:53,134 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 04:04:04,955 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 04:04:04,955 - ATM Portal App -INFO - ***********************
+2021-03-10 04:04:04,955 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:04:16,226 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 04:04:16,228 - ATM Portal App -INFO - ***********************
+2021-03-10 04:04:16,228 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:06:52,541 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 04:06:52,562 - ATM Portal App -INFO - ***********************
+2021-03-10 04:06:52,568 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 04:06:52,578 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 04:06:52,579 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 04:06:54,298 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 04:06:54,311 - ATM Portal App -INFO - ***********************
+2021-03-10 04:06:54,313 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 04:07:06,152 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 04:07:06,153 - ATM Portal App -INFO - ***********************
+2021-03-10 04:07:06,153 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:07:17,872 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 04:07:17,872 - ATM Portal App -INFO - ***********************
+2021-03-10 04:07:17,873 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:09:48,878 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 04:09:48,926 - ATM Portal App -INFO - ***********************
+2021-03-10 04:09:48,927 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 04:09:48,941 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 04:09:48,941 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 04:09:51,085 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 04:09:51,099 - ATM Portal App -INFO - ***********************
+2021-03-10 04:09:51,099 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 04:10:02,658 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 04:10:02,658 - ATM Portal App -INFO - ***********************
+2021-03-10 04:10:02,660 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:10:14,130 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 04:10:14,133 - ATM Portal App -INFO - ***********************
+2021-03-10 04:10:14,135 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:18:48,407 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 04:18:48,425 - ATM Portal App -INFO - ***********************
+2021-03-10 04:18:48,426 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 04:18:48,435 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 04:18:48,435 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 04:18:51,127 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 04:18:51,132 - ATM Portal App -INFO - ***********************
+2021-03-10 04:18:51,132 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 04:19:03,098 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 04:19:03,100 - ATM Portal App -INFO - ***********************
+2021-03-10 04:19:03,103 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:19:15,654 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 04:19:15,655 - ATM Portal App -INFO - ***********************
+2021-03-10 04:19:15,656 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:22:56,856 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 04:22:56,864 - ATM Portal App -INFO - ***********************
+2021-03-10 04:22:56,864 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 04:22:56,877 - ATM Portal App -INFO - Application URL is not detected : Server is Down
+2021-03-10 04:22:56,878 - ATM Portal App -INFO - Uptime test has failed
+2021-03-10 04:22:58,294 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 04:22:58,294 - ATM Portal App -INFO - ***********************
+2021-03-10 04:22:58,295 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 04:23:09,830 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 04:23:09,831 - ATM Portal App -INFO - ***********************
+2021-03-10 04:23:09,831 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:23:21,264 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 04:23:21,264 - ATM Portal App -INFO - ***********************
+2021-03-10 04:23:21,264 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:24:43,414 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-10 04:24:43,422 - ATM Portal App -INFO - ***********************
+2021-03-10 04:24:43,423 - ATM Portal App -INFO - Checking application uptime !
+2021-03-10 04:24:43,430 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-10 04:24:43,431 - ATM Portal App -INFO - Test has passed
+2021-03-10 04:24:44,831 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-10 04:24:44,832 - ATM Portal App -INFO - ***********************
+2021-03-10 04:24:44,832 - ATM Portal App -INFO - Application URL is opened
+2021-03-10 04:24:45,066 - ATM Portal App -INFO - Entered corrupt username
+2021-03-10 04:24:45,142 - ATM Portal App -INFO - Entered corrupt password
+2021-03-10 04:24:45,274 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-10 04:24:45,376 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-10 04:24:46,885 - ATM Portal App -INFO - Test has failed
+2021-03-10 04:24:46,887 - ATM Portal App -INFO - Backend Security is Invalid 
+2021-03-10 04:24:48,388 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-10 04:24:48,388 - ATM Portal App -INFO - ***********************
+2021-03-10 04:24:48,392 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:24:48,555 - ATM Portal App -INFO - Entered correct username
+2021-03-10 04:24:48,744 - ATM Portal App -INFO - Entered corrent password
+2021-03-10 04:24:48,886 - ATM Portal App -INFO - Entered corret accountno
+2021-03-10 04:24:49,071 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-10 04:24:49,394 - ATM Portal App -INFO - Confirmed Validation
+2021-03-10 04:24:50,795 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-10 04:24:50,796 - ATM Portal App -INFO - ***********************
+2021-03-10 04:24:50,796 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-10 04:24:51,537 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-10 04:24:51,537 - ATM Portal App -INFO - testing logout functionality
+2021-03-10 04:24:51,745 - ATM Portal App -INFO - Logout Test Successful
