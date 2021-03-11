@@ -30,6 +30,7 @@ public class TestBaseClass {
 	
 	public static WebDriver driver;
 	public static Logger logger;
+	int value = 1;
 	
 	PullConfiguration config=new PullConfiguration();
 	public String url=config.getApplicationURL();
