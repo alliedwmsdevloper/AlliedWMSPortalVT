@@ -62,7 +62,7 @@ public class TestBaseClass {
 						ChromeOptions chromeOptions = new ChromeOptions();
 						chromeOptions.setHeadless(true);
 						System.setProperty("webdriver.chrome.driver", config.getChromePath() );
-						driver=new ChromeDriver();
+						driver=new ChromeDriver(chromeOptions);
 						}
 					
 			driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
