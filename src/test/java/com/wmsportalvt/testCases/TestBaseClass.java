@@ -60,10 +60,10 @@ public class TestBaseClass {
 						}
 					else if(br.equals("chrome"))
 						{
-						ChromeOptions chromeOptions = new ChromeOptions();
-						chromeOptions.setHeadless(true);
+						ChromeOptions chromeOption = new ChromeOptions();
+						chromeOption.setHeadless(true);
 						System.setProperty("webdriver.chrome.driver", config.getChromePath() );
-						driver=new ChromeDriver(chromeOptions);
+						driver=new ChromeDriver(chromeOption);
 						
 						}
 					
