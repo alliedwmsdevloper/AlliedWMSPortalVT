@@ -42,6 +42,19 @@ public class WebPage {
 	@CacheLookup
 	WebElement btnLogout;
 	
+	@FindBy(name="order")
+	@CacheLookup
+	WebElement btnOrder;
+	
+	@FindBy(name="admincontrol")
+	@CacheLookup
+	WebElement btnAdminP;
+	
+	@FindBy(name="inventory")
+	@CacheLookup
+	WebElement btnInv;
+	
+	
 	
 
 	
@@ -67,6 +80,15 @@ public class WebPage {
 	}
 	
 	
+	public void clickAdminp()
+	{
+		btnAdminP.click();
+	}
+	
+	public void clickInventory()
+	{
+		btnInv.click();
+	}
 	
 	public void clickLogin()
 	{
@@ -77,6 +99,11 @@ public class WebPage {
 	{
 		btnLogout.click();
 	}	
+	
+	public void clickOrder()
+	{
+		btnOrder.click();
+	}
 	
 	
 	

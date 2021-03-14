@@ -580,3 +580,526 @@
 2021-03-10 18:59:22,611 - ATM Portal App -INFO - WMS Portal login is Successful
 2021-03-10 18:59:22,611 - ATM Portal App -INFO - testing logout functionality
 2021-03-10 18:59:22,827 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 00:56:53,149 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 00:56:53,165 - ATM Portal App -INFO - ***********************
+2021-03-11 00:56:53,166 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 00:56:53,179 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 00:56:53,180 - ATM Portal App -INFO - Test has passed
+2021-03-11 00:56:55,234 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 00:56:55,235 - ATM Portal App -INFO - ***********************
+2021-03-11 00:56:55,237 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 00:56:55,520 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 00:56:55,659 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 00:56:55,841 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 00:56:55,937 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 00:56:57,691 - ATM Portal App -INFO - Test has failed
+2021-03-11 00:56:57,691 - ATM Portal App -INFO - Backend Security is Invalid 
+2021-03-11 00:56:59,073 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 00:56:59,073 - ATM Portal App -INFO - ***********************
+2021-03-11 00:56:59,074 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 00:56:59,196 - ATM Portal App -INFO - Entered correct username
+2021-03-11 00:56:59,389 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 00:56:59,517 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 00:56:59,629 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 00:56:59,937 - ATM Portal App -INFO - Confirmed Validation
+2021-03-11 00:57:01,307 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 00:57:01,307 - ATM Portal App -INFO - ***********************
+2021-03-11 00:57:01,309 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 00:57:01,930 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 00:57:01,931 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 00:57:02,141 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 01:40:15,537 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 01:40:15,552 - ATM Portal App -INFO - ***********************
+2021-03-11 01:40:15,553 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 01:40:15,563 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 01:40:15,563 - ATM Portal App -INFO - Test has passed
+2021-03-11 01:40:19,129 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 01:40:19,131 - ATM Portal App -INFO - ***********************
+2021-03-11 01:40:19,132 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 01:40:19,349 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 01:40:19,468 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 01:40:19,577 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 01:40:19,686 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 01:40:21,021 - ATM Portal App -INFO - Test has failed
+2021-03-11 01:40:21,021 - ATM Portal App -INFO - Backend Security is Invalid 
+2021-03-11 01:40:22,867 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 01:40:22,872 - ATM Portal App -INFO - ***********************
+2021-03-11 01:40:22,877 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 01:40:23,100 - ATM Portal App -INFO - Entered correct username
+2021-03-11 01:40:23,194 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 01:40:23,280 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 01:40:23,366 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 01:40:23,667 - ATM Portal App -INFO - Confirmed Validation
+2021-03-11 01:40:25,088 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 01:40:25,088 - ATM Portal App -INFO - ***********************
+2021-03-11 01:40:25,089 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 01:40:25,706 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 01:40:25,707 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 01:40:25,954 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 01:40:27,335 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 01:40:27,336 - ATM Portal App -INFO - ***********************
+2021-03-11 01:40:27,336 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 01:40:27,362 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 01:40:27,362 - ATM Portal App -INFO - Test has passed
+2021-03-11 01:40:29,006 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 01:40:29,006 - ATM Portal App -INFO - ***********************
+2021-03-11 01:40:29,016 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 01:40:29,167 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 01:40:29,289 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 01:40:29,420 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 01:40:29,536 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 01:40:29,805 - ATM Portal App -INFO - Test has failed
+2021-03-11 01:40:29,806 - ATM Portal App -INFO - Backend Security is Invalid 
+2021-03-11 01:40:31,176 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 01:40:31,176 - ATM Portal App -INFO - ***********************
+2021-03-11 01:40:31,176 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 01:40:31,298 - ATM Portal App -INFO - Entered correct username
+2021-03-11 01:40:31,386 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 01:40:31,490 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 01:40:31,573 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 01:40:31,750 - ATM Portal App -INFO - Confirmed Validation
+2021-03-11 01:40:33,068 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 01:40:33,069 - ATM Portal App -INFO - ***********************
+2021-03-11 01:40:33,069 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 01:40:33,601 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 01:40:33,602 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 01:40:33,766 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 01:41:17,278 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 01:41:17,291 - ATM Portal App -INFO - ***********************
+2021-03-11 01:41:17,291 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 01:41:17,317 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 01:41:17,318 - ATM Portal App -INFO - Test has passed
+2021-03-11 01:41:18,854 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 01:41:18,854 - ATM Portal App -INFO - ***********************
+2021-03-11 01:41:18,855 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 01:41:19,137 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 01:41:19,221 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 01:41:19,355 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 01:41:19,458 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 01:41:19,671 - ATM Portal App -INFO - Test has failed
+2021-03-11 01:41:19,671 - ATM Portal App -INFO - Backend Security is Invalid 
+2021-03-11 01:41:21,006 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 01:41:21,007 - ATM Portal App -INFO - ***********************
+2021-03-11 01:41:21,010 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 01:41:21,150 - ATM Portal App -INFO - Entered correct username
+2021-03-11 01:41:21,235 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 01:41:21,345 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 01:41:21,434 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 01:41:21,706 - ATM Portal App -INFO - Confirmed Validation
+2021-03-11 01:41:23,097 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 01:41:23,098 - ATM Portal App -INFO - ***********************
+2021-03-11 01:41:23,098 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 01:41:23,678 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 01:41:23,679 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 01:41:23,857 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 01:43:45,165 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 01:43:45,173 - ATM Portal App -INFO - ***********************
+2021-03-11 01:43:45,173 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 01:43:45,209 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 01:43:45,209 - ATM Portal App -INFO - Test has passed
+2021-03-11 01:43:46,898 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 01:43:46,899 - ATM Portal App -INFO - ***********************
+2021-03-11 01:43:46,903 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 01:43:47,129 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 01:43:47,273 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 01:43:47,411 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 01:43:47,527 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 01:43:47,754 - ATM Portal App -INFO - Test has failed
+2021-03-11 01:43:47,755 - ATM Portal App -INFO - Backend Security is Invalid 
+2021-03-11 01:43:49,180 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 01:43:49,180 - ATM Portal App -INFO - ***********************
+2021-03-11 01:43:49,181 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 01:43:49,307 - ATM Portal App -INFO - Entered correct username
+2021-03-11 01:43:49,422 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 01:43:49,529 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 01:43:49,645 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 01:43:49,912 - ATM Portal App -INFO - Confirmed Validation
+2021-03-11 01:43:51,352 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 01:43:51,353 - ATM Portal App -INFO - ***********************
+2021-03-11 01:43:51,353 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 01:43:51,868 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 01:43:51,868 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 01:43:52,136 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 01:46:28,340 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 01:46:28,348 - ATM Portal App -INFO - ***********************
+2021-03-11 01:46:28,349 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 01:46:28,356 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 01:46:28,357 - ATM Portal App -INFO - Test has passed
+2021-03-11 01:46:29,700 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 01:46:29,700 - ATM Portal App -INFO - ***********************
+2021-03-11 01:46:29,702 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 01:46:29,943 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 01:46:30,076 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 01:46:30,201 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 01:46:30,333 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 01:46:30,567 - ATM Portal App -INFO - Test has failed
+2021-03-11 01:46:30,568 - ATM Portal App -INFO - Backend Security is Invalid 
+2021-03-11 01:46:31,770 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 01:46:31,770 - ATM Portal App -INFO - ***********************
+2021-03-11 01:46:31,771 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 01:46:31,892 - ATM Portal App -INFO - Entered correct username
+2021-03-11 01:46:31,996 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 01:46:32,156 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 01:46:32,242 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 01:46:32,439 - ATM Portal App -INFO - Confirmed Validation
+2021-03-11 01:46:33,852 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 01:46:33,854 - ATM Portal App -INFO - ***********************
+2021-03-11 01:46:33,854 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 01:46:34,509 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 01:46:34,509 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 01:46:34,687 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 03:39:57,621 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 03:39:57,649 - ATM Portal App -INFO - ***********************
+2021-03-11 03:39:57,651 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 03:39:57,666 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 03:39:57,667 - ATM Portal App -INFO - Test has passed
+2021-03-11 03:40:01,720 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 03:40:01,769 - ATM Portal App -INFO - ***********************
+2021-03-11 03:40:01,770 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 03:40:02,102 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 03:40:02,231 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 03:40:02,370 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 03:40:02,569 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 03:40:03,327 - ATM Portal App -INFO - Test has failed
+2021-03-11 03:40:03,327 - ATM Portal App -INFO - Backend Security is Invalid 
+2021-03-11 03:40:05,143 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 03:40:05,147 - ATM Portal App -INFO - ***********************
+2021-03-11 03:40:05,151 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 03:40:05,243 - ATM Portal App -INFO - Entered correct username
+2021-03-11 03:40:05,342 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 03:40:05,500 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 03:40:05,633 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 03:40:05,942 - ATM Portal App -INFO - Confirmed Validation
+2021-03-11 03:40:07,502 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 03:40:07,502 - ATM Portal App -INFO - ***********************
+2021-03-11 03:40:07,503 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 03:40:08,024 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 03:40:08,025 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 03:40:08,301 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 03:44:59,231 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 03:44:59,246 - ATM Portal App -INFO - ***********************
+2021-03-11 03:44:59,247 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 03:44:59,260 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 03:44:59,262 - ATM Portal App -INFO - Test has passed
+2021-03-11 03:45:03,718 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 03:45:03,755 - ATM Portal App -INFO - ***********************
+2021-03-11 03:45:03,762 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 03:45:04,180 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 03:45:04,450 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 03:45:04,657 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 03:45:04,798 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 03:45:05,328 - ATM Portal App -INFO - Test has passed
+2021-03-11 03:45:05,329 - ATM Portal App -INFO - Backend Security is Valid
+2021-03-11 03:45:07,881 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 03:45:07,882 - ATM Portal App -INFO - ***********************
+2021-03-11 03:45:07,888 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 03:45:08,090 - ATM Portal App -INFO - Entered correct username
+2021-03-11 03:45:08,370 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 03:45:08,513 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 03:45:08,685 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 03:45:09,034 - ATM Portal App -INFO - Confirmed Validation
+2021-03-11 03:45:11,038 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 03:45:11,038 - ATM Portal App -INFO - ***********************
+2021-03-11 03:45:11,039 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 03:45:11,831 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 03:45:11,832 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 03:45:12,226 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 14:36:28,885 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 14:36:28,905 - ATM Portal App -INFO - ***********************
+2021-03-11 14:36:28,906 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 14:36:28,928 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 14:36:28,928 - ATM Portal App -INFO - Test has passed
+2021-03-11 14:36:32,563 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 14:36:32,563 - ATM Portal App -INFO - ***********************
+2021-03-11 14:36:32,564 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 14:36:32,883 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 14:36:32,985 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 14:36:33,076 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 14:36:33,167 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 14:36:34,711 - ATM Portal App -INFO - Test has passed
+2021-03-11 14:36:34,712 - ATM Portal App -INFO - Backend Security is Valid
+2021-03-11 14:36:36,703 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 14:36:36,704 - ATM Portal App -INFO - ***********************
+2021-03-11 14:36:36,714 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 14:36:36,857 - ATM Portal App -INFO - Entered correct username
+2021-03-11 14:36:36,943 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 14:36:37,031 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 14:36:37,110 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 14:36:37,416 - ATM Portal App -INFO - Test has Failed
+2021-03-11 14:36:39,348 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 14:36:39,349 - ATM Portal App -INFO - ***********************
+2021-03-11 14:36:39,349 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 14:36:40,366 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 14:36:40,366 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 14:36:40,693 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 14:39:22,622 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 14:39:22,628 - ATM Portal App -INFO - ***********************
+2021-03-11 14:39:22,628 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 14:39:22,637 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 14:39:22,637 - ATM Portal App -INFO - Test has passed
+2021-03-11 14:39:24,465 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 14:39:24,467 - ATM Portal App -INFO - ***********************
+2021-03-11 14:39:24,469 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 14:39:24,639 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 14:39:24,785 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 14:39:24,884 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 14:39:25,001 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 14:39:25,229 - ATM Portal App -INFO - Test has passed
+2021-03-11 14:39:25,229 - ATM Portal App -INFO - Backend Security is Valid
+2021-03-11 14:39:26,871 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 14:39:26,877 - ATM Portal App -INFO - ***********************
+2021-03-11 14:39:26,881 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 14:39:26,976 - ATM Portal App -INFO - Entered correct username
+2021-03-11 14:39:27,062 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 14:39:27,183 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 14:39:27,294 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 14:39:29,752 - ATM Portal App -INFO - Confirmed Validation
+2021-03-11 14:39:31,432 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 14:39:31,432 - ATM Portal App -INFO - ***********************
+2021-03-11 14:39:31,433 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 14:39:32,195 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 14:39:32,195 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 14:39:32,415 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 15:05:10,921 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 15:05:10,933 - ATM Portal App -INFO - ***********************
+2021-03-11 15:05:10,933 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 15:05:10,947 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 15:05:10,948 - ATM Portal App -INFO - Test has passed
+2021-03-11 15:05:11,823 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 15:05:11,824 - ATM Portal App -INFO - ***********************
+2021-03-11 15:05:11,827 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 15:05:12,145 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 15:05:12,275 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 15:05:12,385 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 15:05:12,530 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 15:05:13,007 - ATM Portal App -INFO - Test has passed
+2021-03-11 15:05:13,007 - ATM Portal App -INFO - Backend Security is Valid
+2021-03-11 15:05:13,594 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 15:05:13,597 - ATM Portal App -INFO - ***********************
+2021-03-11 15:05:13,599 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 15:05:13,706 - ATM Portal App -INFO - Entered correct username
+2021-03-11 15:05:13,811 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 15:05:13,889 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 15:05:13,968 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 15:05:14,298 - ATM Portal App -INFO - Confirmed Validation
+2021-03-11 15:05:14,902 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 15:05:14,902 - ATM Portal App -INFO - ***********************
+2021-03-11 15:05:14,902 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 15:05:15,356 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 15:05:15,356 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 15:05:15,489 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 23:47:52,700 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 23:47:52,713 - ATM Portal App -INFO - ***********************
+2021-03-11 23:47:52,714 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 23:47:52,734 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 23:47:52,734 - ATM Portal App -INFO - Test has passed
+2021-03-11 23:47:53,542 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 23:47:53,544 - ATM Portal App -INFO - ***********************
+2021-03-11 23:47:53,544 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 23:47:53,772 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 23:47:53,929 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 23:47:54,065 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 23:47:54,164 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 23:47:55,862 - ATM Portal App -INFO - Test has passed
+2021-03-11 23:47:55,862 - ATM Portal App -INFO - Backend Security is Valid
+2021-03-11 23:47:56,468 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 23:47:56,471 - ATM Portal App -INFO - ***********************
+2021-03-11 23:47:56,472 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 23:47:56,561 - ATM Portal App -INFO - Entered correct username
+2021-03-11 23:47:56,638 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 23:47:56,712 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 23:47:56,788 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 23:47:57,746 - ATM Portal App -INFO - Test has Failed
+2021-03-11 23:47:58,264 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 23:47:58,264 - ATM Portal App -INFO - ***********************
+2021-03-11 23:47:58,265 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 23:47:58,681 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 23:47:58,682 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 23:47:58,768 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 23:47:59,317 - ATM Portal App -INFO - BEGINNING TEST CASE Five
+2021-03-11 23:47:59,318 - ATM Portal App -INFO - ***********************
+2021-03-11 23:47:59,318 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 23:47:59,746 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 23:47:59,746 - ATM Portal App -INFO - testing order functionality
+2021-03-11 23:47:59,846 - ATM Portal App -INFO - Inventory Test unnsuccessful
+2021-03-11 23:48:00,342 - ATM Portal App -INFO - BEGINNING TEST CASE Six
+2021-03-11 23:48:00,342 - ATM Portal App -INFO - ***********************
+2021-03-11 23:48:00,342 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 23:48:00,835 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 23:48:00,836 - ATM Portal App -INFO - testing order functionality
+2021-03-11 23:48:00,918 - ATM Portal App -INFO - Order Test unnsuccessful
+2021-03-11 23:48:01,415 - ATM Portal App -INFO - BEGINNING TEST CASE Seven
+2021-03-11 23:48:01,415 - ATM Portal App -INFO - ***********************
+2021-03-11 23:48:01,419 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 23:48:01,962 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 23:48:01,962 - ATM Portal App -INFO - testing admin page navigation functionality
+2021-03-11 23:50:50,000 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-11 23:50:50,024 - ATM Portal App -INFO - ***********************
+2021-03-11 23:50:50,027 - ATM Portal App -INFO - Checking application uptime !
+2021-03-11 23:50:50,052 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-11 23:50:50,052 - ATM Portal App -INFO - Test has passed
+2021-03-11 23:50:54,044 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-11 23:50:54,136 - ATM Portal App -INFO - ***********************
+2021-03-11 23:50:54,137 - ATM Portal App -INFO - Application URL is opened
+2021-03-11 23:50:54,542 - ATM Portal App -INFO - Entered corrupt username
+2021-03-11 23:50:54,660 - ATM Portal App -INFO - Entered corrupt password
+2021-03-11 23:50:54,870 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-11 23:50:54,972 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-11 23:50:55,996 - ATM Portal App -INFO - Test has passed
+2021-03-11 23:50:55,996 - ATM Portal App -INFO - Backend Security is Valid
+2021-03-11 23:50:58,441 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-11 23:50:58,441 - ATM Portal App -INFO - ***********************
+2021-03-11 23:50:58,446 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 23:50:58,585 - ATM Portal App -INFO - Entered correct username
+2021-03-11 23:50:58,683 - ATM Portal App -INFO - Entered corrent password
+2021-03-11 23:50:58,785 - ATM Portal App -INFO - Entered corret accountno
+2021-03-11 23:50:58,887 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-11 23:51:01,369 - ATM Portal App -INFO - Confirmed Validation
+2021-03-11 23:51:03,215 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-11 23:51:03,217 - ATM Portal App -INFO - ***********************
+2021-03-11 23:51:03,217 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 23:51:03,841 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 23:51:03,842 - ATM Portal App -INFO - testing logout functionality
+2021-03-11 23:51:04,175 - ATM Portal App -INFO - Logout Test Successful
+2021-03-11 23:51:05,876 - ATM Portal App -INFO - BEGINNING TEST CASE Five
+2021-03-11 23:51:05,877 - ATM Portal App -INFO - ***********************
+2021-03-11 23:51:05,878 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 23:51:06,453 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 23:51:06,453 - ATM Portal App -INFO - testing order functionality
+2021-03-11 23:51:07,891 - ATM Portal App -INFO - Inventory Test unnsuccessful
+2021-03-11 23:51:09,608 - ATM Portal App -INFO - BEGINNING TEST CASE Six
+2021-03-11 23:51:09,608 - ATM Portal App -INFO - ***********************
+2021-03-11 23:51:09,611 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 23:51:10,514 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 23:51:10,514 - ATM Portal App -INFO - testing order functionality
+2021-03-11 23:51:10,826 - ATM Portal App -INFO - Order Test unnsuccessful
+2021-03-11 23:51:12,164 - ATM Portal App -INFO - BEGINNING TEST CASE Seven
+2021-03-11 23:51:12,164 - ATM Portal App -INFO - ***********************
+2021-03-11 23:51:12,164 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-11 23:51:12,891 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-11 23:51:12,892 - ATM Portal App -INFO - testing admin page navigation functionality
+2021-03-11 23:51:13,305 - ATM Portal App -INFO - Admin page navigation was reached
+2021-03-11 23:51:13,305 - ATM Portal App -INFO - Test successful
+2021-03-12 00:02:27,501 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-12 00:02:27,514 - ATM Portal App -INFO - ***********************
+2021-03-12 00:02:27,515 - ATM Portal App -INFO - Checking application uptime !
+2021-03-12 00:02:27,529 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-12 00:02:27,530 - ATM Portal App -INFO - Test has passed
+2021-03-12 00:02:29,967 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-12 00:02:29,969 - ATM Portal App -INFO - ***********************
+2021-03-12 00:02:29,987 - ATM Portal App -INFO - Application URL is opened
+2021-03-12 00:02:30,347 - ATM Portal App -INFO - Entered corrupt username
+2021-03-12 00:02:30,470 - ATM Portal App -INFO - Entered corrupt password
+2021-03-12 00:02:30,588 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-12 00:02:30,764 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-12 00:02:31,057 - ATM Portal App -INFO - Test has passed
+2021-03-12 00:02:31,057 - ATM Portal App -INFO - Backend Security is Valid
+2021-03-12 00:02:32,853 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-12 00:02:32,854 - ATM Portal App -INFO - ***********************
+2021-03-12 00:02:32,856 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-12 00:02:32,971 - ATM Portal App -INFO - Entered correct username
+2021-03-12 00:02:33,105 - ATM Portal App -INFO - Entered corrent password
+2021-03-12 00:02:33,218 - ATM Portal App -INFO - Entered corret accountno
+2021-03-12 00:02:33,319 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-12 00:02:33,534 - ATM Portal App -INFO - Confirmed Validation
+2021-03-12 00:02:35,003 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-12 00:02:35,003 - ATM Portal App -INFO - ***********************
+2021-03-12 00:02:35,003 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-12 00:02:35,585 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-12 00:02:35,585 - ATM Portal App -INFO - testing logout functionality
+2021-03-12 00:02:35,801 - ATM Portal App -INFO - Logout Test Successful
+2021-03-12 00:02:37,146 - ATM Portal App -INFO - BEGINNING TEST CASE Five
+2021-03-12 00:02:37,151 - ATM Portal App -INFO - ***********************
+2021-03-12 00:02:37,156 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-12 00:02:37,776 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-12 00:02:37,776 - ATM Portal App -INFO - Testing Inventory page navigation functionality
+2021-03-12 00:02:38,517 - ATM Portal App -INFO - Inventory Test unnsuccessful
+2021-03-12 00:02:39,987 - ATM Portal App -INFO - BEGINNING TEST CASE Six
+2021-03-12 00:02:39,987 - ATM Portal App -INFO - ***********************
+2021-03-12 00:02:39,987 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-12 00:02:40,575 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-12 00:02:40,575 - ATM Portal App -INFO - Testing inventory Page functionality
+2021-03-12 00:02:40,820 - ATM Portal App -INFO - Order Test unnsuccessful
+2021-03-12 00:02:42,434 - ATM Portal App -INFO - BEGINNING TEST CASE Seven
+2021-03-12 00:02:42,435 - ATM Portal App -INFO - ***********************
+2021-03-12 00:02:42,435 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-12 00:02:42,944 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-12 00:02:42,945 - ATM Portal App -INFO - testing admin page navigation functionality
+2021-03-12 00:02:43,137 - ATM Portal App -INFO - Admin page navigation was reached
+2021-03-12 00:02:43,138 - ATM Portal App -INFO - Test successful
+2021-03-12 00:25:28,100 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-12 00:25:28,116 - ATM Portal App -INFO - ***********************
+2021-03-12 00:25:28,121 - ATM Portal App -INFO - Checking application uptime !
+2021-03-12 00:25:28,133 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-12 00:25:28,133 - ATM Portal App -INFO - Test has passed
+2021-03-12 00:25:31,417 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-12 00:25:31,420 - ATM Portal App -INFO - ***********************
+2021-03-12 00:25:31,420 - ATM Portal App -INFO - Application URL is opened
+2021-03-12 00:25:31,674 - ATM Portal App -INFO - Entered corrupt username
+2021-03-12 00:25:31,809 - ATM Portal App -INFO - Entered corrupt password
+2021-03-12 00:25:31,977 - ATM Portal App -INFO - Entered corrupt accountno
+2021-03-12 00:25:32,253 - ATM Portal App -INFO - Entered corrupt zipcode
+2021-03-12 00:25:34,109 - ATM Portal App -INFO - Test has passed
+2021-03-12 00:25:34,110 - ATM Portal App -INFO - Backend Security is Valid
+2021-03-12 00:25:36,931 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-12 00:25:36,956 - ATM Portal App -INFO - ***********************
+2021-03-12 00:25:36,957 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-12 00:25:37,093 - ATM Portal App -INFO - Entered correct username
+2021-03-12 00:25:37,294 - ATM Portal App -INFO - Entered corrent password
+2021-03-12 00:25:37,430 - ATM Portal App -INFO - Entered corret accountno
+2021-03-12 00:25:37,585 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-12 00:25:38,140 - ATM Portal App -INFO - Confirmed Validation
+2021-03-12 00:25:40,809 - ATM Portal App -INFO - BEGINNING TEST CASE Four
+2021-03-12 00:25:40,817 - ATM Portal App -INFO - ***********************
+2021-03-12 00:25:40,826 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-12 00:25:41,551 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-12 00:25:41,551 - ATM Portal App -INFO - testing logout functionality
+2021-03-12 00:25:41,823 - ATM Portal App -INFO - Logout Test Successful
+2021-03-12 00:25:44,014 - ATM Portal App -INFO - BEGINNING TEST CASE Five
+2021-03-12 00:25:44,019 - ATM Portal App -INFO - ***********************
+2021-03-12 00:25:44,019 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-12 00:25:44,636 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-12 00:25:44,637 - ATM Portal App -INFO - Testing Inventory page navigation functionality
+2021-03-12 00:25:48,562 - ATM Portal App -INFO - Inventory page was reached
+2021-03-12 00:25:48,564 - ATM Portal App -INFO - Inventory Test successful
+2021-03-12 00:25:50,561 - ATM Portal App -INFO - BEGINNING TEST CASE Six
+2021-03-12 00:25:50,561 - ATM Portal App -INFO - ***********************
+2021-03-12 00:25:50,561 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-12 00:25:51,121 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-12 00:25:51,121 - ATM Portal App -INFO - Testing inventory Page functionality
+2021-03-12 00:25:51,828 - ATM Portal App -INFO - Order page was reached
+2021-03-12 00:25:51,831 - ATM Portal App -INFO - Order Test successful
+2021-03-12 00:25:53,672 - ATM Portal App -INFO - BEGINNING TEST CASE Seven
+2021-03-12 00:25:53,672 - ATM Portal App -INFO - ***********************
+2021-03-12 00:25:53,672 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-12 00:25:54,359 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-12 00:25:54,363 - ATM Portal App -INFO - testing admin page navigation functionality
+2021-03-12 00:25:54,687 - ATM Portal App -INFO - Admin page navigation was reached
+2021-03-12 00:25:54,687 - ATM Portal App -INFO - Test successful
+2021-03-13 03:26:34,748 - ATM Portal App -INFO - BEGINNING TEST CASE ONE
+2021-03-13 03:26:34,831 - ATM Portal App -INFO - ***********************
+2021-03-13 03:26:34,832 - ATM Portal App -INFO - Checking application uptime !
+2021-03-13 03:26:35,884 - ATM Portal App -INFO - Applicaton URL is opened : Server is Up
+2021-03-13 03:26:35,892 - ATM Portal App -INFO - Test has passed
+2021-03-13 03:26:58,450 - ATM Portal App -INFO - BEGINNING TEST CASE TWO
+2021-03-13 03:26:58,474 - ATM Portal App -INFO - ***********************
+2021-03-13 03:26:58,478 - ATM Portal App -INFO - Application URL is opened
+2021-03-13 03:27:03,003 - ATM Portal App -INFO - Entered corrupt username
+2021-03-13 03:27:26,661 - ATM Portal App -INFO - BEGINNING TEST CASE Three
+2021-03-13 03:27:26,672 - ATM Portal App -INFO - ***********************
+2021-03-13 03:27:26,673 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-13 03:27:27,869 - ATM Portal App -INFO - Entered correct username
+2021-03-13 03:27:28,928 - ATM Portal App -INFO - Entered corrent password
+2021-03-13 03:27:29,226 - ATM Portal App -INFO - Entered corret accountno
+2021-03-13 03:27:29,340 - ATM Portal App -INFO - Entered correct zipcode
+2021-03-13 03:27:31,646 - ATM Portal App -INFO - Test has Failed
+2021-03-13 03:27:57,214 - ATM Portal App -INFO - BEGINNING TEST CASE Five
+2021-03-13 03:27:57,235 - ATM Portal App -INFO - ***********************
+2021-03-13 03:27:57,236 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-13 03:28:04,813 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-13 03:28:04,836 - ATM Portal App -INFO - Testing Inventory page navigation functionality
+2021-03-13 03:28:23,417 - ATM Portal App -INFO - BEGINNING TEST CASE Six
+2021-03-13 03:28:23,426 - ATM Portal App -INFO - ***********************
+2021-03-13 03:28:23,427 - ATM Portal App -INFO - WMS Portal is opened
+2021-03-13 03:28:32,694 - ATM Portal App -INFO - WMS Portal login is Successful
+2021-03-13 03:28:32,737 - ATM Portal App -INFO - Testing inventory Page functionality

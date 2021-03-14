@@ -48,7 +48,7 @@ public class TC2_ValidateSecurity extends TestBaseClass {
 		
 	    lp.clickLogin();
 		
-		if(driver.getTitle().equals("Allied WMS"))
+		if(driver.getTitle().equals("WMS ADMIN Portal Main Page"))
 		{
 			Assert.assertTrue(true);
 			logger.info("Test has passed");

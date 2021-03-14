@@ -98,11 +98,6 @@ public class PullConfiguration {
 	return chromepath;
 	}
 	
-	public String getIEPath()
-	{
-	String iepath=property.getProperty("iepath");
-	return iepath;
-	}
 	
 	public String getFirefoxPath()
 	{

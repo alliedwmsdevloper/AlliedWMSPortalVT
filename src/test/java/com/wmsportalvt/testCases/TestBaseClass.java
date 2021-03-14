@@ -32,43 +32,40 @@ public class TestBaseClass {
 	public static WebDriver driver;
 	public static Logger logger;
 	
+	
+	
 	PullConfiguration config=new PullConfiguration();
-	public String url=config.getApplicationURL();
+	public String appurl=config.getApplicationURL();
+	
 	
 	// testing enviroment setup - based on annotation runs before test class 
 	
 	@Parameters("browser")
 	@BeforeClass
-	public void setup(String br)
+	public void boot(String browser)
 	{			
 		logger = Logger.getLogger("ATM Portal App");
 		PropertyConfigurator.configure("Log4j.properties");
 		
-					if(br.equals("firefox"))
+					if(browser.equals("firefox"))
 						{
-						    FirefoxOptions fxOptions = new FirefoxOptions();
-						    fxOptions.setHeadless(true);
+						   // FirefoxOptions fxOptions = new FirefoxOptions();
+						   // fxOptions.setHeadless(true);
 							System.setProperty("webdriver.gecko.driver", config.getFirefoxPath() );
 							driver = new FirefoxDriver();
 						}
-					else if(br.equals("ie"))
-						{
 					
-							System.setProperty("webdriver.ie.driver", config.getIEPath() );
-							driver = new InternetExplorerDriver();
-							
-						}
-					else if(br.equals("chrome"))
+					else if(browser.equals("chrome"))
 						{
 						ChromeOptions chromeOption = new ChromeOptions();
 						chromeOption.setHeadless(true);
 						System.setProperty("webdriver.chrome.driver", config.getChromePath() );
-						driver=new ChromeDriver(chromeOption);
-						
+						//driver=new ChromeDriver(chromeOption);
+						driver=new ChromeDriver();
 						}
 					
 			driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
-			driver.get(url);
+			driver.get(appurl);
 	}
 	
 	// testing enviroment shutdown - based on annotation runs after test class 
