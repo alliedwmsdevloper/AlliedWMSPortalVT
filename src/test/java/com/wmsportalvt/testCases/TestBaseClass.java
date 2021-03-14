@@ -31,6 +31,7 @@ public class TestBaseClass {
 	
 	public static WebDriver driver;
 	public static Logger logger;
+	int value = 1;
 	
 	
 	
@@ -60,8 +61,12 @@ public class TestBaseClass {
 						ChromeOptions chromeOption = new ChromeOptions();
 						chromeOption.setHeadless(true);
 						System.setProperty("webdriver.chrome.driver", config.getChromePath() );
+
 						//driver=new ChromeDriver(chromeOption);
-						driver=new ChromeDriver();
+						//driver=new ChromeDriver();
+
+						driver=new ChromeDriver(chromeOption);
+
 						}
 					
 			driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
