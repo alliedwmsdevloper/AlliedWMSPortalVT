@@ -17,6 +17,20 @@
 		</classes>
 		
 	</test>
+	
+	<test name="AlliedWMSPortalTV-Firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			  <class name="com.wmsportalvt.testCases.TC1_ValidateUptime"/>
+			  <class name="com.wmsportalvt.testCases.TC2_ValidateSecurity"/>
+			  <class name="com.wmsportalvt.testCases.TC3_ValidateLogin"/>
+			  <class name="com.wmsportalvt.testCases.TC4_ValidateLogout"/>
+			  <class name="com.wmsportalvt.testCases.TC5_ValidateInventoryPageNavigation"/>	
+			  <class name="com.wmsportalvt.testCases.TC6_ValidateOrderPageNavigation"/>	
+			  <class name="com.wmsportalvt.testCases.TC7_ValidateAdminPageNavigation"/>			
+		</classes>
+		
+	</test>
 
     
 

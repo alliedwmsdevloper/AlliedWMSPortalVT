@@ -50,10 +50,10 @@ public class TestBaseClass {
 		
 					if(browser.equals("firefox"))
 						{
-						   // FirefoxOptions fxOptions = new FirefoxOptions();
-						   // fxOptions.setHeadless(true);
+						   FirefoxOptions fxOptions = new FirefoxOptions();
+						   fxOptions.setHeadless(true);
 							System.setProperty("webdriver.gecko.driver", config.getFirefoxPath() );
-							driver = new FirefoxDriver();
+							driver = new FirefoxDriver(fxOptions);
 						}
 					
 					else if(browser.equals("chrome"))
@@ -62,10 +62,10 @@ public class TestBaseClass {
 						chromeOption.setHeadless(true);
 						System.setProperty("webdriver.chrome.driver", config.getChromePath() );
 
-						//driver=new ChromeDriver(chromeOption);
+						driver=new ChromeDriver(chromeOption);
 						//driver=new ChromeDriver();
 
-						driver=new ChromeDriver(chromeOption);
+						//driver=new ChromeDriver(chromeOption);
 
 						}
 					
